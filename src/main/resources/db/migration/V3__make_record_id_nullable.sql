@@ -1,0 +1,1 @@
+ALTER TABLE public.entry ALTER COLUMN record_id DROP NOT NULL;
